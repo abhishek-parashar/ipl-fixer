@@ -22,7 +22,7 @@ The entire code has been developed using Python programming language and is host
 ### How to run the project:
 
   1. Open the `Terminal`.
-  2. Clone the repository by entering `https://github.com/abhishek-parashar/AI-DOC`.
+  2. Clone the repository by entering `https://github.com/abhishek-parashar/ipl-fixer`.
   3. Ensure that `Python3` and `pip` are installed on the system.
   4. Create a `virtualenv` by executing the following command: `virtualenv venv`.
   5. Activate the `venv` virtual environment by executing the follwing command: `source venv/bin/activate`.
